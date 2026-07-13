@@ -1,0 +1,12 @@
+{
+  "_status": "LOCKED",
+  "joblib": "1.5.3",
+  "machine": "x86_64",
+  "numpy": "2.4.4",
+  "pandas": "3.0.2",
+  "platform": "Linux-6.17.0-35-generic-x86_64-with-glibc2.39",
+  "python": "3.12.3",
+  "scipy": "1.17.1",
+  "sklearn": "1.8.0",
+  "threadpoolctl": "3.6.0"
+}

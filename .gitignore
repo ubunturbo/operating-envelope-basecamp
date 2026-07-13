@@ -1,0 +1,8 @@
+# Must never be committed (runner-local, created after the preregistration commit):
+PREREGISTRATION_PUSHED.json
+VALIDATION_STARTED.json
+VALIDATION_COMPLETE.json
+__pycache__/
+._oe_stage_*/
+# Results (validation_*.csv, tier0_decisions.csv, null_score_diagnostics.csv,
+# TIER0_RESULT.json) are NOT ignored: they are committed in the results commit.
