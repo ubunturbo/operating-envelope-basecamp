@@ -1,0 +1,11 @@
+{
+  "protocol_version": "v0.3-rc5",
+  "tier0a_pass": true,
+  "tier0b_pass": true,
+  "tier1_generated": true,
+  "delta_bias": 0.010000000000000002,
+  "delta_rep": 0.05,
+  "eps": 0.05,
+  "t_adj": 2.402079047428952,
+  "decision": "base camp secured; k=2 Tier-1 may be read"
+}
